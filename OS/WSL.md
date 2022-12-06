@@ -12,3 +12,8 @@
 
 5. The Linux distribution can be launched from the Start menu.
    ![](./images/WSL4.jpg)
+
+## Note
+If you faced following error
+![](./images/WSL_Error1.jpg)
+Then download and install [this](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi) package
